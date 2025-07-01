@@ -5320,3 +5320,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 01:16:50.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jul2025 01:17:23.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Stone Age]
 [01Jul2025 01:17:33.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Stone Age]
+[01Jul2025 01:21:50.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 01:21:50.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 01:23:50.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Is this... blood?]
+[01Jul2025 01:23:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to MR4YTRD]
+[01Jul2025 01:26:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported MR4YTRD to inwxke]
+[01Jul2025 01:26:35.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Getting an Upgrade]
+[01Jul2025 01:26:50.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 01:26:50.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 01:28:25.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Is this... blood?]
+[01Jul2025 01:28:31.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ is bleeding. David_craft_exe_ was slain by Zombie
+[01Jul2025 01:28:48.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ was slain by Zombie
+[01Jul2025 01:29:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Monster Hunter]
+[01Jul2025 01:30:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Made David_craft_exe_ a server operator]
+[01Jul2025 01:30:36.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]

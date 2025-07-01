@@ -507,15 +507,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 01:15:11 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -564,6 +582,18 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
     },
     "done": true
   },
@@ -621,6 +651,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
@@ -663,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
@@ -678,6 +720,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -699,15 +747,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-07-01 01:11:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
     },
     "done": true
   },
@@ -747,6 +813,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 01:15:11 +0000"
@@ -768,6 +840,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -825,6 +903,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-07-01 01:23:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
@@ -867,6 +951,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 01:11:16 +0000"
@@ -876,6 +966,12 @@
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-07-01 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
     },
     "done": true
   },
@@ -963,6 +1059,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
@@ -993,9 +1095,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_grill": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1035,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-07-01 01:15:09 +0000"
@@ -1062,6 +1182,12 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
     },
     "done": true
   },
@@ -1101,6 +1227,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
@@ -1116,6 +1254,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
     },
     "done": true
   },
@@ -1158,6 +1302,24 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-01 01:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
     },
     "done": true
   },
@@ -1257,9 +1419,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1287,6 +1461,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-07-01 01:13:43 +0000"
@@ -1305,6 +1485,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 01:11:16 +0000"
@@ -1314,6 +1500,12 @@
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-07-01 01:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1338,6 +1530,12 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-01 01:15:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1383,6 +1581,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_crate": {
     "criteria": {
       "has_log": "2025-07-01 01:08:15 +0000"
@@ -1413,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-07-01 01:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-01 01:08:15 +0000"
@@ -1434,6 +1644,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1485,6 +1701,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
@@ -1506,6 +1728,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-01 01:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-01 01:26:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1545,15 +1779,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-07-01 01:15:09 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_grill": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1569,9 +1821,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1599,15 +1869,41 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 01:15:11 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-07-01 01:23:04 +0000",
+      "potato": "2025-07-01 01:22:01 +0000",
+      "bread": "2025-07-01 01:24:04 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 01:17:33 +0000"
     },
     "done": true
   },
@@ -1620,6 +1916,12 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-07-01 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
@@ -1650,6 +1952,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_log": "2025-07-01 01:16:58 +0000"
     },
     "done": true
   },
