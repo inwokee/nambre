@@ -5435,3 +5435,90 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [01Jul2025 02:19:54.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ is bleeding. David_craft_exe_ was slain by Wither Skeleton
 [01Jul2025 02:20:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke is bleeding. inwxke was burnt to a crisp whilst fighting Blaze
 [01Jul2025 02:21:16.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke burned to death
+[01Jul2025 02:22:15.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:22:15.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:22:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD is bleeding. MR4YTRD was doomed to fall
+[01Jul2025 02:22:57.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:24:37.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to MR4YTRD]
+[01Jul2025 02:24:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:27:06.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke is bleeding. inwxke burned to death
+[01Jul2025 02:27:15.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:27:15.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:27:32.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:27:48.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported inwxke to David_craft_exe_]
+[01Jul2025 02:27:55.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:28:00.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported inwxke to David_craft_exe_]
+[01Jul2025 02:29:20.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to David_craft_exe_]
+[01Jul2025 02:29:29.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:29:41.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported inwxke to David_craft_exe_]
+[01Jul2025 02:31:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:32:15.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:32:15.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:33:16.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported inwxke to David_craft_exe_]
+[01Jul2025 02:33:21.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Pic-A-Nic Basket?]
+[01Jul2025 02:34:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Convergent Evolution...]
+[01Jul2025 02:36:09.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to David_craft_exe_]
+[01Jul2025 02:37:16.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:37:16.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:38:11.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:38:18.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MR4YTRD) moved wrongly! 0.4869077821267638
+[01Jul2025 02:38:18.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MR4YTRD) moved wrongly! 0.9839791695943063
+[01Jul2025 02:38:18.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MR4YTRD) moved wrongly! 0.3305047334812343
+[01Jul2025 02:38:18.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MR4YTRD) moved wrongly! 0.333266652482223
+[01Jul2025 02:38:18.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MR4YTRD) moved wrongly! 0.30595190974588604
+[01Jul2025 02:38:52.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to David_craft_exe_]
+[01Jul2025 02:39:55.690] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/106212, l='ServerLevel[world]', x=-105.50, y=22.00, z=-1612.50]
+[01Jul2025 02:40:00.052] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/106630, l='ServerLevel[world]', x=-103.50, y=19.00, z=-1603.50]
+[01Jul2025 02:40:00.240] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/106659, l='ServerLevel[world]', x=-104.50, y=20.00, z=-1593.50]
+[01Jul2025 02:40:02.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/106996, l='ServerLevel[world]', x=-108.50, y=23.00, z=-1589.50]
+[01Jul2025 02:40:04.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/107287, l='ServerLevel[world]', x=21.50, y=-10.00, z=-1660.50]
+[01Jul2025 02:40:06.912] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/107565, l='ServerLevel[world]', x=-104.50, y=20.00, z=-1596.50]
+[01Jul2025 02:40:08.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/107794, l='ServerLevel[world]', x=28.50, y=0.00, z=-1667.50]
+[01Jul2025 02:40:08.620] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/107796, l='ServerLevel[world]', x=31.50, y=0.00, z=-1666.50]
+[01Jul2025 02:40:09.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/107945, l='ServerLevel[world]', x=-104.50, y=19.00, z=-1600.50]
+[01Jul2025 02:40:11.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[01Jul2025 02:40:13.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/108204, l='ServerLevel[world]', x=23.50, y=-1.00, z=-1667.50]
+[01Jul2025 02:40:15.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD is bleeding. MR4YTRD was slain by Skelewag
+[01Jul2025 02:40:16.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/108536, l='ServerLevel[world]', x=31.50, y=-20.00, z=-1667.50]
+[01Jul2025 02:40:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:40:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to MR4YTRD]
+[01Jul2025 02:40:26.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of David_craft_exe_) moved wrongly! 0.28911128734727143
+[01Jul2025 02:40:26.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of David_craft_exe_) moved wrongly! 0.4682011746074082
+[01Jul2025 02:40:26.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of David_craft_exe_) moved wrongly! 0.6533237009409056
+[01Jul2025 02:40:27.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of David_craft_exe_) moved wrongly! 0.8405521174484356
+[01Jul2025 02:40:27.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of David_craft_exe_) moved wrongly! 1.0863292342428714
+[01Jul2025 02:40:29.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3099ms or 61 ticks behind
+[01Jul2025 02:40:36.206] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/109788, l='ServerLevel[world]', x=23.50, y=-5.00, z=-1668.50]
+[01Jul2025 02:40:37.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ is bleeding. David_craft_exe_ was slain by Skelewag
+[01Jul2025 02:40:46.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[01Jul2025 02:41:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported inwxke to MR4YTRD]
+[01Jul2025 02:41:19.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]
+[01Jul2025 02:41:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD was slain by Skelewag
+[01Jul2025 02:41:31.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported MR4YTRD to inwxke]
+[01Jul2025 02:41:35.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/110888, l='ServerLevel[world]', x=-598.87, y=71.00, z=41.59] died, message: 'Mason was slain by Sprinter'
+[01Jul2025 02:41:56.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110897, l='ServerLevel[world]', x=-636.61, y=69.00, z=29.14] died, message: 'Villager was slain by Zombie'
+[01Jul2025 02:42:23.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:42:23.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:42:35.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110905, l='ServerLevel[world]', x=-635.87, y=69.00, z=32.27] died, message: 'Villager bled to death'
+[01Jul2025 02:44:24.053] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-610, y=72, z=40}) doesn't have enough leaves around top most log
+[01Jul2025 02:45:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ is bleeding. David_craft_exe_ burned to death
+[01Jul2025 02:45:18.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]
+[01Jul2025 02:45:23.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported inwxke to MR4YTRD]
+[01Jul2025 02:45:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:47:23.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:47:23.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:48:03.898] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/110915, l='ServerLevel[world]', x=-623.00, y=67.00, z=-43.94] died, message: 'Cartographer was slain by Sprinter'
+[01Jul2025 02:50:29.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/110860, l='ServerLevel[world]', x=-601.01, y=71.00, z=44.02] died, message: 'Librarian was slain by David_craft_exe_'
+[01Jul2025 02:52:23.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:52:23.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:52:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported MR4YTRD to inwxke]
+[01Jul2025 02:57:23.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:57:23.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:58:38.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Recrafted Creatures]
+[01Jul2025 02:58:47.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported MR4YTRD to inwxke]
+[01Jul2025 02:59:02.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Herc was on a Roll!]
+[01Jul2025 02:59:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Set the time to 1000]
+[01Jul2025 03:00:06.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD is bleeding. MR4YTRD was energized by Lightning Dragon
+[01Jul2025 03:00:12.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported inwxke to MR4YTRD]
+[01Jul2025 03:00:20.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported MR4YTRD to David_craft_exe_]
+[01Jul2025 03:00:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Dragonslayer]
