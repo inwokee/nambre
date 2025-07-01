@@ -4664,3 +4664,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 00:37:41.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with inwxke
 [01Jul2025 00:37:41.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with inwxke
 [01Jul2025 00:37:41.011] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to inwxke
+[01Jul2025 00:40:41.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:40:41.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 00:41:11.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Set own game mode to Survival Mode]
+[01Jul2025 00:41:13.058] [Worker-Main-24/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[01Jul2025 00:41:13.388] [Worker-Main-22/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jul2025 00:41:13.389] [Worker-Main-22/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jul2025 00:41:13.391] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jul2025 00:41:13.401] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[01Jul2025 00:41:16.386] [Worker-Main-23/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Jul2025 00:45:41.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:45:41.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 00:50:41.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:50:41.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -256,3 +256,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 00:37:41.001] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
 [01Jul2025 00:37:41.010] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of inwxke (18)
 [01Jul2025 00:37:41.011] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to inwxke
+[01Jul2025 00:41:11.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Set own game mode to Survival Mode]
