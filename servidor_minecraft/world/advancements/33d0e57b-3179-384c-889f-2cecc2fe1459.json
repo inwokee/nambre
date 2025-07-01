@@ -159,33 +159,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_crafting_table": "2025-07-01 00:45:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_crate": {
     "criteria": {
       "has_log": "2025-07-01 00:42:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
-    "criteria": {
-      "has_bottom": "2025-07-01 00:45:55 +0000"
     },
     "done": true
   },
@@ -201,27 +177,9 @@
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_cube": {
-    "criteria": {
-      "hasPlanks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-07-01 00:42:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:45:55 +0000"
     },
     "done": true
   },
@@ -249,12 +207,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_table": {
     "criteria": {
       "has_log": "2025-07-01 00:42:07 +0000"
@@ -267,21 +219,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-07-01 00:42:07 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-07-01 00:45:58 +0000"
     },
     "done": true
   },
@@ -321,12 +261,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-07-01 00:42:07 +0000"
@@ -357,6 +291,96 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-01 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-01 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-01 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-01 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-01 00:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-01 00:45:55 +0000"
@@ -375,27 +399,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_park_bench": {
-    "criteria": {
-      "has_log": "2025-07-01 00:42:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-01 00:45:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:42:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_park_bench": {
-    "criteria": {
-      "has_log": "2025-07-01 00:42:07 +0000"
     },
     "done": true
   },
@@ -405,27 +411,21 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_chair": {
-    "criteria": {
-      "has_planks": "2025-07-01 00:42:07 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-07-01 00:45:55 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_cabinet": {
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
-      "has_log": "2025-07-01 00:42:07 +0000"
+      "has_crafting_table": "2025-07-01 00:45:58 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_kitchen_drawer": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "has_log": "2025-07-01 00:42:07 +0000"
+      "crafting_table": "2025-07-01 00:45:58 +0000"
     },
     "done": true
   },
