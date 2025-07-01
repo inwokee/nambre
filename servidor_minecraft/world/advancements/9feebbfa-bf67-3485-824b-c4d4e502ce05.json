@@ -104,6 +104,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-01 02:03:09 +0000",
+      "minecraft:nether_wastes": "2025-07-01 02:09:24 +0000",
       "minecraft:warped_forest": "2025-07-01 02:06:35 +0000"
     },
     "done": false
@@ -270,6 +271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-01 02:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-01 01:52:45 +0000"
@@ -296,7 +303,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-07-01 01:45:46 +0000"
+      "minecraft:skeleton": "2025-07-01 02:13:44 +0000",
+      "minecraft:magma_cube": "2025-07-01 02:11:33 +0000",
+      "minecraft:spider": "2025-07-01 01:45:46 +0000",
+      "minecraft:zombified_piglin": "2025-07-01 02:12:19 +0000"
     },
     "done": false
   },
@@ -780,6 +790,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-01 02:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-01 01:30:14 +0000"
@@ -1020,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-01 02:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-01 01:31:01 +0000"
@@ -1041,6 +1063,12 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-07-01 01:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-01 02:11:52 +0000"
     },
     "done": true
   },
@@ -1341,6 +1369,12 @@
   "cfm:recipes/decorations/lime_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-07-01 01:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-01 02:12:23 +0000"
     },
     "done": true
   },
@@ -1902,6 +1936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-01 02:12:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-07-01 01:52:45 +0000"
@@ -1965,6 +2005,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 01:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-01 02:15:34 +0000"
     },
     "done": true
   },
@@ -2040,7 +2086,8 @@
     "criteria": {
       "cooked_porkchop": "2025-07-01 01:42:46 +0000",
       "cooked_beef": "2025-07-01 01:48:43 +0000",
-      "bread": "2025-07-01 01:36:45 +0000"
+      "bread": "2025-07-01 01:36:45 +0000",
+      "carrot": "2025-07-01 02:13:00 +0000"
     },
     "done": false
   },

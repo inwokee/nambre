@@ -5419,3 +5419,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [01Jul2025 02:09:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
 [01Jul2025 02:10:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [We Need to Go Deeper]
 [01Jul2025 02:10:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to MR4YTRD]
+[01Jul2025 02:11:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [A Terrible Fortress]
+[01Jul2025 02:11:59.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [A Terrible Fortress]
+[01Jul2025 02:12:06.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [A Terrible Fortress]
+[01Jul2025 02:12:15.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:12:15.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:13:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke is bleeding. inwxke was burnt to a crisp whilst fighting Skeleton
+[01Jul2025 02:14:20.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [The Path to Better Gear]
+[01Jul2025 02:15:59.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Into Fire]
+[01Jul2025 02:16:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ is bleeding. David_craft_exe_ was slain by Blaze
+[01Jul2025 02:17:15.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:17:15.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:18:00.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD is bleeding. MR4YTRD was doomed to fall
+[01Jul2025 02:18:25.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:19:54.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ is bleeding. David_craft_exe_ was slain by Wither Skeleton
+[01Jul2025 02:20:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke is bleeding. inwxke was burnt to a crisp whilst fighting Blaze
+[01Jul2025 02:21:16.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke burned to death

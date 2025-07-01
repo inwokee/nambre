@@ -563,6 +563,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-01 02:11:17 +0000",
+      "minecraft:nether_wastes": "2025-07-01 02:10:08 +0000",
+      "minecraft:warped_forest": "2025-07-01 02:11:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-01 01:33:10 +0000"
@@ -753,6 +761,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-01 01:29:43 +0000",
       "minecraft:spider": "2025-07-01 01:37:20 +0000",
+      "minecraft:zombified_piglin": "2025-07-01 02:12:16 +0000",
       "minecraft:zombie": "2025-07-01 01:29:48 +0000",
       "minecraft:zombie_villager": "2025-07-01 01:42:55 +0000"
     },
@@ -1382,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-01 02:12:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-07-01 01:15:09 +0000"
@@ -1415,6 +1430,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-07-01 02:09:37 +0000"
     },
     "done": true
   },
@@ -1577,6 +1598,12 @@
   "cfm:recipes/tools/spatula": {
     "criteria": {
       "has_iron": "2025-07-01 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-01 02:10:08 +0000"
     },
     "done": true
   },
@@ -1991,6 +2018,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-01 01:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-01 02:10:08 +0000"
     },
     "done": true
   },
