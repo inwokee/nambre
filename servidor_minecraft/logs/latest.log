@@ -321,3 +321,71 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 01:29:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Monster Hunter]
 [01Jul2025 01:30:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Made David_craft_exe_ a server operator]
 [01Jul2025 01:30:36.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]
+[01Jul2025 01:32:26.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Stone Age]
+[01Jul2025 01:32:34.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported MR4YTRD to inwxke]
+[01Jul2025 01:33:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]
+[01Jul2025 01:34:44.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Getting an Upgrade]
+[01Jul2025 01:38:25.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MR4YTRD: Teleported MR4YTRD to inwxke]
+[01Jul2025 01:38:44.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Cover Me with Diamonds]
+[01Jul2025 01:38:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Not Today, Thank You]
+[01Jul2025 01:38:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ is bleeding. David_craft_exe_ burned to death
+[01Jul2025 01:39:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Suit Up]
+[01Jul2025 01:39:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ burned to death
+[01Jul2025 01:39:14.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]
+[01Jul2025 01:41:12.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]
+[01Jul2025 01:41:19.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [A Better Blade]
+[01Jul2025 01:42:53.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [A Better Blade]
+[01Jul2025 01:43:44.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Acquire Hardware]
+[01Jul2025 01:45:07.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 01:45:13.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to MR4YTRD]
+[01Jul2025 01:45:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Is this... blood?]
+[01Jul2025 01:45:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Monster Hunter]
+[01Jul2025 01:47:32.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Isn't It Iron Pick]
+[01Jul2025 01:51:39.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Suit Up]
+[01Jul2025 01:52:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Enchanter]
+[01Jul2025 01:53:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Recrafted Creatures]
+[01Jul2025 01:53:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Bloodthirsty]
+[01Jul2025 01:54:19.641] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@63a583c4, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23197!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 01:56:36.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01Jul2025 01:56:59.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7918ms or 158 ticks behind
+[01Jul2025 01:57:22.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8776ms or 175 ticks behind
+[01Jul2025 01:57:42.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4284ms or 85 ticks behind
+[01Jul2025 01:57:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 01:59:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Enchanter]
+[01Jul2025 02:00:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [Isn't It Iron Pick]
+[01Jul2025 02:02:24.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [We Need to Go Deeper]
+[01Jul2025 02:02:25.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David_craft_exe_ moved too quickly! 4.489042073368864,0.7531999805212024,9.0510342463934
+[01Jul2025 02:02:25.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[01Jul2025 02:03:08.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_craft_exe_ has made the advancement [We Need to Go Deeper]
+[01Jul2025 02:04:22.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MR4YTRD has made the advancement [Nightmare Fuel]
+[01Jul2025 02:05:17.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke is bleeding. inwxke was slain by Zombie
+[01Jul2025 02:06:17.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke was slain by Zombie
+[01Jul2025 02:08:10.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:09:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[01Jul2025 02:09:37.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['inwxke'/84566, l='ServerLevel[world]', x=-929.94, y=113.00, z=13.13] died: inwxke was slain by inwxke
+[01Jul2025 02:09:38.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to inwxke]
+[01Jul2025 02:09:47.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['inwxke'/84565, l='ServerLevel[world]', x=-930.50, y=117.75, z=24.70] died: inwxke was slain by inwxke
+[01Jul2025 02:09:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David_craft_exe_: Teleported David_craft_exe_ to MR4YTRD]
+[01Jul2025 02:10:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [We Need to Go Deeper]
+[01Jul2025 02:10:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to MR4YTRD]
